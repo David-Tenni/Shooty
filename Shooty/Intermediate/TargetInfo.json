@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shooty",
+			"Path": "C:\\GameDev\\Shooty\\Shooty\\Source\\Shooty.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootyEditor",
+			"Path": "C:\\GameDev\\Shooty\\Shooty\\Source\\ShootyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

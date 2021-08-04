@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GameDev\\Shooty\\Shooty\\Source\\Shooty\\Shooty.Build.cs",
+		"C:\\GameDev\\Shooty\\Shooty\\Source\\Shooty.Target.cs",
+		"C:\\GameDev\\Shooty\\Shooty\\Source\\ShootyEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

@@ -1,0 +1,2 @@
+C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\Definitions.Shooty.h
+C:\GameDev\Shooty\Shooty\Source\Shooty\Shooty.h

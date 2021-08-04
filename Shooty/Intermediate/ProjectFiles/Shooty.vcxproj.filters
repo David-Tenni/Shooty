@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Shooty.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D55DFBF9-C370-4940-85A2-1184BBD7C1D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shooty.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CD46C5A9-59B1-40D0-B46A-C9E49348B62F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Shooty">
+      <UniqueIdentifier>{5C95003B-88C0-4248-AF27-29E346F07189}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shooty\Shooty.Build.cs">
+      <Filter>Source\Shooty</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Shooty\Shooty.cpp">
+      <Filter>Source\Shooty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shooty\Shooty.h">
+      <Filter>Source\Shooty</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Shooty\ShootyGameModeBase.cpp">
+      <Filter>Source\Shooty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shooty\ShootyGameModeBase.h">
+      <Filter>Source\Shooty</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

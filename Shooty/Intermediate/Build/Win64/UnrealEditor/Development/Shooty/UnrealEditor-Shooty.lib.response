@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Shooty.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\ShootyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\Shooty.cpp.obj"
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\ShootyGameModeBase.cpp.obj"
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\Shooty.init.gen.cpp.obj"
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\ShootyGameModeBase.gen.cpp.obj"
+"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\Default.rc2.res"
+/OUT:"C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\UnrealEditor-Shooty.lib"
+/INCLUDE:IMPLEMENT_MODULE_Shooty
