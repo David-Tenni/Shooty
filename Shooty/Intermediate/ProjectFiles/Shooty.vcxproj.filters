@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Shooty.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D55DFBF9-C370-4940-85A2-1184BBD7C1D5}</UniqueIdentifier>
+      <UniqueIdentifier>{2745280F-5C1E-4CA3-801A-C17C32067E89}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Shooty.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CD46C5A9-59B1-40D0-B46A-C9E49348B62F}</UniqueIdentifier>
+      <UniqueIdentifier>{5FDBDCE8-8A71-433C-B1E0-CCD7CC7A2119}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Shooty">
-      <UniqueIdentifier>{5C95003B-88C0-4248-AF27-29E346F07189}</UniqueIdentifier>
+      <UniqueIdentifier>{CFA945A1-B1AE-4BAD-8659-2AE15AE8A632}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Shooty\Shooty.Build.cs">
       <Filter>Source\Shooty</Filter>
