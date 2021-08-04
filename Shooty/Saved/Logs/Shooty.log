@@ -1251,3 +1251,12 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.04-02.58.12:119][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.08.04-02.58.12:120][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.08.04-02.58.20:975][171]LogMeshUtilities: Finished distance field build in 8.6s - 259x259x259 sparse distance field, 9.1Mb total, 0.4Mb always loaded, 28% occupied, 1322 triangles, EditorSkySphere
+[2021.08.04-07.10.01:895][ 46]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.04-07.10.01:914][ 46]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.04-07.10.08:314][664]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2021.08.04-07.10.08:315][664]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.04-07.10.14:444][ 42]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.04-07.10.14:449][ 42]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.04-07.10.14:454][ 42]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.04-07.10.22:973][872]LogContentBrowser: Attempting asset rename: NewBlueprint -> random_pawn_BP
+[2021.08.04-07.10.22:980][872]LogContentBrowser: End creating deferred item NewBlueprint
