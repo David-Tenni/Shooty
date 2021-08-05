@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeShooty_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x314FAA4B,
-				0x9ED8B20F,
+				0x4FB0CB69,
+				0xE741BE78,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

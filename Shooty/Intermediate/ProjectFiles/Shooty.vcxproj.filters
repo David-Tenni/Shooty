@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Shooty.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2745280F-5C1E-4CA3-801A-C17C32067E89}</UniqueIdentifier>
+      <UniqueIdentifier>{FDE4271D-11D1-4A6D-9F75-2E8881C80A62}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Shooty.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5FDBDCE8-8A71-433C-B1E0-CCD7CC7A2119}</UniqueIdentifier>
+      <UniqueIdentifier>{BDAFBAEA-911F-486D-9829-CCFFEC4FFA0A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Shooty">
-      <UniqueIdentifier>{CFA945A1-B1AE-4BAD-8659-2AE15AE8A632}</UniqueIdentifier>
+      <UniqueIdentifier>{4F0CDD36-5478-4A17-B552-2A3441461C17}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Shooty\BasicPlayerPawn.cpp">
+      <Filter>Source\Shooty</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shooty\BasicPlayerPawn.h">
+      <Filter>Source\Shooty</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Shooty\Shooty.Build.cs">
       <Filter>Source\Shooty</Filter>
     </None>

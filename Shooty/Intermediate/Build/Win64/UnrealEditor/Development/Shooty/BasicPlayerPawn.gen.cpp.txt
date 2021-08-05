@@ -1,0 +1,5 @@
+C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Development\Shooty\Definitions.Shooty.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\GameDev\Shooty\Shooty\Source\Shooty/BasicPlayerPawn.h
+C:\GameDev\Shooty\Shooty\Intermediate\Build\Win64\UnrealEditor\Inc\Shooty\BasicPlayerPawn.generated.h
